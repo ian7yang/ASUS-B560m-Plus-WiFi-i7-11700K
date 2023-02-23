@@ -1,6 +1,6 @@
 # ASUS-B560m-Plus-WiFi-i7-11700K
 
-This is based on OC v0.8.0. You need to fill in the SMBIOS info before use.
+This is based on OC v0.8.9. You need to fill in the SMBIOS info before use.
 
 Get the SMBIOS from here https://github.com/corpnewt/GenSMBIOS.
 
@@ -12,9 +12,8 @@ Get the SMBIOS from here https://github.com/corpnewt/GenSMBIOS.
 | WiFi/BlueTooth | Fenvi T919 (if you need handoff and AirDrop) |
 | Graphic Card | Sapphire RX 580 |
 | Memory | 4x8GB Ballitix@3200MHz |
+| OS | WD_BLACK SN770 NVMe M.2 SSD 1TB |
 | Storage | Samsung 970 EVO Plus NVMe M.2 SSD 2TB |
 
 
-
-These cost me ~$800. It's a decent Hackintosh and more powerful than a Mac-mini.
-It's been running smoothly since I created this repo.
+This setup works on Ventura 13.2.1.
